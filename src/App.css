@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar {
+  display: flex;
+  list-style-type: none;
+  background-color: #cccccc;
+  padding: 1rem;
+}
+
+.navbar li {
+  cursor: pointer;
+  margin-left: 1rem;
+  font-size: 1.2rem;  
+}
