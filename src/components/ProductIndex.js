@@ -42,13 +42,13 @@ const ProductIndex = () => {
 
     return (
         <div>
-          <ul>
+          <ul className="productContainer">
             {Object.entries(shoes).map(([productID,{name,img}]) => 
                (
                   <li key={productID}>
-                    <Link to={productID}>
-                       <h2> {name} </h2> 
-                       <img src={img} alt={name} />
+                    <Link to={productID}>    
+                      <h2> {name} </h2>                    
+                      <img src={img} alt={name} />                       
                     </Link>  
 
                     
