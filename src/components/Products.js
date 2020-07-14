@@ -1,15 +1,15 @@
-import React from 'react'
-import { Outlet } from  'react-router-dom'
+// import React from 'react'
+// import { Outlet } from  'react-router-dom'
 
-import '../App.css'
+// import '../App.css'
 
- const Products = () => {
-    return (
-        <div>            
-          <Outlet />
-        </div>
-  )
-}
+//  const Products = () => {
+//     return (
+//         <div>            
+//           <Outlet />
+//         </div>
+//   )
+// }
 
 
-export default Products
+// export default Products

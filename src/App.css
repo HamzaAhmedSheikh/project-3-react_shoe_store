@@ -50,18 +50,3 @@
   font-size: 1.2rem;  
 } */
 
-.productContainer {
-  background-color: skyblue;
-  list-style-type: none;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  align-items: center;
-  text-align: center;    
-  max-width: 300px;  
-  text-align: center;  
-}
-
-.productContainer > li {
-  color: red;
-}
