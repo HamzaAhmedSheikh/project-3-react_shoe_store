@@ -55,13 +55,13 @@ header .close{
     display: none;
 }
 
-@media (max-width: 650px){
+@media (max-width: 575.98px) {
     header ul{
         position: fixed;
         top:0;
         left: -100%;
-        width: 100%;
-        height: 100vh;
+        width: 90%;
+        height: 90vh;
         display: flex;
         justify-content: space-around;
         align-items: center;
@@ -85,5 +85,5 @@ header .close{
     
     header ul.toggle{
         left: 0;
-    }
+    }    
 }

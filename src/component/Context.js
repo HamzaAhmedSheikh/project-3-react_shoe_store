@@ -12,7 +12,7 @@ export class DataProvider extends Component {
                 "src": "https://www.upsieutoc.com/images/2020/06/27/img1.jpg",
                 "description": "Leather and synthetic",
                 "content": "The Nike Blazer Mid '77 Vintage harnesses the old-school look of Nike Basketball with a vintage midsole finish, making it look like you've been saving them for years.",
-                "price": 23,
+                "price": 115,
                 "colors": ["red", "black", "crimson", "teal"],
                 "count": 1
             },
@@ -22,7 +22,7 @@ export class DataProvider extends Component {
                 "src": "https://www.upsieutoc.com/images/2020/06/27/img2.jpg",
                 "description": "Leather and synthetic",
                 "content": "The Nike Blazer Mid '77 Vintage harnesses the old-school look of Nike Basketball with a vintage midsole finish, making it look like you've been saving them for years.",
-                "price": 19,
+                "price": 60,
                 "colors": ["red", "crimson", "teal"],
                 "count": 1
             },
@@ -42,7 +42,7 @@ export class DataProvider extends Component {
                 "src": "https://www.upsieutoc.com/images/2020/06/27/img4.jpg",
                 "description": "Leather and synthetic",
                 "content": "The Nike Blazer Mid '77 Vintage harnesses the old-school look of Nike Basketball with a vintage midsole finish, making it look like you've been saving them for years.",
-                "price": 15,
+                "price": 75,
                 "colors": ["orange", "black", "crimson", "teal"],
                 "count": 1
             },
@@ -52,7 +52,7 @@ export class DataProvider extends Component {
                 "src": "https://www.upsieutoc.com/images/2020/06/27/img5.jpg",
                 "description": "Leather and synthetic",
                 "content": "The Nike Blazer Mid '77 Vintage harnesses the old-school look of Nike Basketball with a vintage midsole finish, making it look like you've been saving them for years.",
-                "price": 10,
+                "price": 100,
                 "colors": ["orange", "black", "crimson", "teal"],
                 "count": 1
             },
@@ -62,7 +62,7 @@ export class DataProvider extends Component {
                 "src": "https://www.upsieutoc.com/images/2020/06/27/img6.jpg",
                 "description": "Leather and synthetic",
                 "content": "The Nike Blazer Mid '77 Vintage harnesses the old-school look of Nike Basketball with a vintage midsole finish, making it look like you've been saving them for years.",
-                "price": 17,
+                "price": 50,
                 "colors": ["orange", "black", "crimson", "teal"],
                 "count": 1
             }
