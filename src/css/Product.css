@@ -2,8 +2,7 @@
     width: 100%;
     display: flex;
     justify-content: space-around;
-    flex-wrap: wrap;
-    background-color: blue;
+    flex-wrap: wrap;    
 }
 .card{
     min-width: 300px;
