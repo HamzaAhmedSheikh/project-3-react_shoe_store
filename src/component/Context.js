@@ -65,6 +65,38 @@ export class DataProvider extends Component {
                 "price": 50,
                 "colors": ["orange", "black", "crimson", "teal"],
                 "count": 1
+            },
+            {
+              "_id": "7",
+               "title": "VALOUR BLUE", 
+               "src": "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+               "description": "air-jordan-3-valor-blue",
+               "content": "The Nike air-jordan-3-valor-blue",
+               "price": 99,
+               "colors": ["orange", "black", "crimson", "teal"],
+               "count": 1
+                 
+            },
+            {
+              "_id": "8",
+              "title": "JORDAN MARS 270 LONDON", 
+              "src": "https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+              "description": "jordan-mars-270-london",
+              "content": "The Nike jordan-mars-270-london",
+              "price": 105,
+              "colors": ["orange", "black", "crimson", "teal"],
+              "count": 1
+                   
+            },
+            {
+             "_id": "9",
+             "title": "RACER BLUE", 
+             "src": "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+             "description": "air-jordan-1-zoom-racer-blue",
+             "content": "The Nike air-jordan-1-zoom-racer-blue",
+             "price": 90,
+             "colors": ["orange", "black", "crimson", "teal"],
+             "count": 1                  
             }
         ],
         cart: [],
