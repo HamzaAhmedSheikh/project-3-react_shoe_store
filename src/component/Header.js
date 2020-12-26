@@ -29,7 +29,7 @@ export class Header extends Component {
                     <img src={Menu} alt="" width="20"/>
                 </div>
                 <div className="logo">
-                    <h1><Link to="/">Nike</Link></h1>
+                    <h1><Link to="/"> Shoe Store </Link></h1>
                 </div>
                 <nav>
                     <ul className={toggle ? "toggle" : ""}>
