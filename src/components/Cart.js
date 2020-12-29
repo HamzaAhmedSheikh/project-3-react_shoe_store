@@ -9,7 +9,7 @@ export default function Cart() {
    const [cart, setCart] = value.cart
    const [total, setTotal] = useState(0);   
 
-   console.log(value);
+   
 
    useEffect(() => {
      const getTotal = () => {
