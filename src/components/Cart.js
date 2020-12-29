@@ -75,7 +75,7 @@ export default function Cart() {
                  <button className="count" onClick={() => increase(product._id)}> + </button>
                </div>  
 
-               <div className="delete" onClick={() => removeProduct(product._id)}>X</div>        
+               <div className="delete" onClick={() => removeProduct(product._id)}> X </div>        
             </div>            
           </div>   
         ))  
