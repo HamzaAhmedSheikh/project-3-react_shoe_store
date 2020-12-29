@@ -14,7 +14,7 @@ export default function Products() {
        {products.map((product) => (
          <div className="card" key={product._id}>
            <Link to={`/products/${product._id}`}>
-             <img src={product.images[0]} alt='' />
+             <img src={product.images[0]} alt='product-image' />
            </Link>
            <div className="box">
              <h3 title={product.title}>
